@@ -13,7 +13,7 @@ Our art is an experimentation in artificial intelligence, artificial creativity,
 
 
 ## Example Code
-Our software converts Human and AI created stokes to commands for robot to follow
+Our software converts Human and AI created strokes to commands for our robot controller to follow
 ```
 private List<Command> convertStrokeToCommands( final BrushStroke stroke ) {
 	final ArrayList<Command> commands = new ArrayList<Command>();
