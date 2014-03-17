@@ -13,7 +13,7 @@ We have built a painting robot in the Washington D.C. area that is capable of ta
 
 Anyone with an internet connection can collaborate in the painting by visiting Crowd Painter's website and applying their own strokes. When no one is applying strokes, the robots AI examines what the last human was painting, and continues from there.  If another human begins to paint, the AI hands control back to the new contributor.
 
-In this manner a crowd sourced painting emerges from the collaboration between the artists, the internet, and the robots custom written artificial creativity.
+In this manner a crowd-sourced painting emerges from the collaboration between the artists, participants on the internet, and the robots custom written artificial creativity.
 
 ## Link to Prototype
 [Crowd Painter Beta Prototype](http://www.crowdpainter.com "Crowd Beta Painter Prototype")
