@@ -6,7 +6,7 @@ The first strokes tested were from the internet interface.
 
 ![Test Painting 2](../project_images/baby2.jpg?raw=true "Test Painting 2")
 
-These initial human guided stokes dipped the brush in paint and painted a contour of the face.
+These initial human guided strokes dipped the brush in paint and painted a contour of the face.
 
 ![Test Painting 3](../project_images/baby3.jpg?raw=true "Test Painting 3")
 
