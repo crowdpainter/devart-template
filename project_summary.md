@@ -48,6 +48,4 @@ Our software converts Human and AI created stokes to commands for robot to follo
 
 ## Images & Videos
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
-
-http://youtu.be/GmGgXOxoEDs
+![Artists](project_images/pindartrillane.jpg?raw=true "Artists")
