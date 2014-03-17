@@ -2,8 +2,8 @@
 Crowd Painter
 
 ## Authors
-- Pindar Van Arman, crowdpainter
-- Trillane Burlar, crowdpainter
+- Pindar Van Arman, https://github.com/crowdpainter
+- Trillane Burlar, https://github.com/crowdpainter
 
 ## Description
 
