@@ -50,4 +50,8 @@ Our software converts Human and AI created stokes to commands for robot to follo
 
 ![Artists](project_images/pindartrillane.jpg?raw=true "Artists")
 
+The Artists, Trillane Burlar (left) and Pindar Van Arman (right)
+
 http://youtu.be/GmGgXOxoEDs
+
+Recently completed Video (March 10, 2014) describing how individuals can participate in Crowd Painting.
