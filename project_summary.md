@@ -13,7 +13,7 @@ Our art is an experimentation in artificial intelligence, artificial creativity,
 
 
 ## Example Code
-Softwareconverts Human and AI created stokes to commands for robot to follow
+Our software converts Human and AI created stokes to commands for robot to follow
 ```
 	private List<Command> convertStrokeToCommands(
 			final BrushStroke stroke ) {
@@ -47,8 +47,6 @@ Softwareconverts Human and AI created stokes to commands for robot to follow
 [Apache CXF](cxf.apache.org/ "Apache CXF")
 
 ## Images & Videos
-
-<iframe width="420" height="315" src="//www.youtube.com/embed/GmGgXOxoEDs" frameborder="0" allowfullscreen></iframe>
 
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
