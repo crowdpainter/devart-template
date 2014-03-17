@@ -47,7 +47,7 @@ private List<Command> convertStrokeToCommands( final BrushStroke stroke ) {
 
 ## Images & Videos
 
-![artists](../project_images/pindartrillane.jpg?raw=true "artists")
+![artists](project_images/pindartrillane.jpg?raw=true "artists")
 
 The Artists, Trillane Burlar (left) and Pindar Van Arman (right)
 
