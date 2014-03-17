@@ -15,29 +15,25 @@ Our art is an experimentation in artificial intelligence, artificial creativity,
 ## Example Code
 Our software converts Human and AI created stokes to commands for robot to follow
 ```
- private List<Command> convertStrokeToCommands(
-            final BrushStroke stroke ) {
-        final ArrayList<Command> commands = new ArrayList<Command>();
-if(stroke.getPoints() != null && stroke.getPoints().size > 1){
- CanvasPoint point1 = stroke.getPoints().get(
-                0);
-        CanvasPoint point2;
-        for (int i = 1, size = stroke.getPoints().size(); i < size; i++) {
-            point2 = stroke.getPoints().get(
-                    i);
-            commands.add(new PaintTo(
-                    point1.getX(),
-                    point1.getY(),
-                    point2.getX(),
-                    point2.getY(),
-                    stroke.getColor()));
-            point1 = point2;
-        }
-        commands.add(new StrokeComplete());
-}
- return commands;
-    }
+private List<Command> convertStrokeToCommands( final BrushStroke stroke ) {
+	final ArrayList<Command> commands = new ArrayList<Command>();
+	if(stroke.getPoints() != null && stroke.getPoints().size > 1){
+	 	CanvasPoint point1 = stroke.getPoints().get(0);
+        	CanvasPoint point2;
+        	for (int i = 1, size = stroke.getPoints().size(); i < size; i++) {
+           	    point2 = stroke.getPoints().get(i);
+	            commands.add(new PaintTo(
+                    	point1.getX(),
+                    	point1.getY(),
+                    	point2.getX(),
+                    	point2.getY(),
+                    	stroke.getColor()));
+	            point1 = point2;
+        	}
+	        commands.add(new StrokeComplete());
 	}
+	return commands;
+}
 ```
 ## Links to External Libraries
 
