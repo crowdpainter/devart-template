@@ -13,19 +13,36 @@ Our art is an experimentation in artificial intelligence, artificial creativity,
 
 
 ## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+Softwareconverts Human and AI created stokes to commands for robot to follow
 ```
-function test() {
-  console.log("Printing a test");
-}
+	private List<Command> convertStrokeToCommands(
+			final BrushStroke stroke ) {
+		final ArrayList<Command> commands = new ArrayList<Command>();
+		CanvasPoint point1 = stroke.getPoints().get(
+				0);
+		CanvasPoint point2;
+		for (int i = 1, size = stroke.getPoints().size(); i < size; i++) {
+			point2 = stroke.getPoints().get(
+					i);
+			commands.add(new PaintTo(
+					point1.getX(),
+					point1.getY(),
+					point2.getX(),
+					point2.getY(),
+					stroke.getColor()));
+			point1 = point2;
+		}
+		commands.add(new StrokeComplete());
+		return commands;
+	}
 ```
 ## Links to External Libraries
- NOTE: You can also use this space to link to external libraries or Github repositories you used on your project.
-
-[Example Link](http://www.google.com "Example Link")
+[GWT (Google Web Toolkit)](http://www.gwtproject.org/ "GWT (Google Web Toolkit)")
+[Spring](http://spring.io/ "Spring")
+[Hibernate](http://hibernate.org/ "Hibernate")
+[Apache CXF](cxf.apache.org/ "Apache CXF")
 
 ## Images & Videos
-
 ![Example Image](project_images/cover.jpg?raw=true "Example Image")
 
 http://youtu.be/GmGgXOxoEDs
