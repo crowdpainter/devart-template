@@ -1,13 +1,13 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "youtube"
         ],
         "platforms": [
-            "insert platforms"
+            "android", "windows", "ios", "linux", "raspberry pi"
         ],
         "toolkits": [
-            "insert toolkits"
+            "Google Web Toolkit"
         ]
     },
     "themes": [
