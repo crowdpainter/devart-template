@@ -12,4 +12,4 @@ Third Painting Robot (72"x58")
 
 Current Painting Robot (58"x40")
 
-![Current Robot](../project_images/construction1.jpg?raw=true "Current Robot")
+![Current Robot](../project_images/construction3.jpg?raw=true "Current Robot")
