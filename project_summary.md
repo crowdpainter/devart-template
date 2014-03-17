@@ -6,7 +6,12 @@ Crowd Painter
 - Trillane Burlar, crowdpainter
 
 ## Description
-Our art is an experimentation in artificial intelligence, artificial creativity, and crowd sourced art.  We are building a painting robot in the Washington D.C. area that takes commands from both AI and internet participants to create acrylic paintings on stretched canvases.  This robot uses an artist brush to create paintings stroke by stroke.  When operating, anyone with an internet connection is able to visit our website and apply their own strokes.  When no one is applying strokes, the robots built in AI examines what the last human was painting, and takes over from there.  If another command comes in from the internet, the AI hands control back to the new contributor.  In this manner a crowd sourced painting emerges from the collaboration between us, the internet, and our custom written AI.  At the basest level this asks who and what is an artist, at others it asks, does creativity even exist.
+
+Crowd Painter is an interactive installation that experiments with artificial creativity and crowd sourced art.
+
+We have built a painting robot in the Washington D.C. area that is capable of taking commands from both AI and internet participants through an intuitive web enabled interface. The robot uses the commands it receives to create acrylic paintings in real time on a stretched canvases with an artists brush.
+
+When operating, anyone with an internet connection can collaborate by visiting Crowd Painter's website and applying their own strokes. When no one is applying strokes, the robots built in AI examines what the last human was painting, and continues from there.  If another command comes in from the internet, the AI hands control back to the new contributor.  In this manner a crowd sourced painting emerges from the collaboration between the artists, the internet, and the robots custom written artificial creativity.
 
 ## Link to Prototype
 [Crowd Painter Beta Prototype](http://www.crowdpainter.com "Crowd Beta Painter Prototype")
