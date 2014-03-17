@@ -9,6 +9,10 @@
         "toolkits": [
             "Google Web Toolkit"
         ]
+        ,
+        "languages": [
+            "java", "javascript", "html", "css"
+        ]
     },
     "themes": [
         "insert themes"
