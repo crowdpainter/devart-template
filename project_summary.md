@@ -22,6 +22,7 @@ How is this different from Draw With Friends and other painting robots? It's dif
 We propose to install four Google Tablets on individual pedestals backed by a large flat screen television. We would install a custom Android application on the tablets that would display our painting interface. The television would show a live feed of the robot and the current painting. Gallery participants would be able to use the tablets to command the robot to paint. When there are no gallery participants, the robot AI would paint.
 
 ![Installation Front View](project_images/FrontView.jpg?raw=true "Installation Front View")
+
 ![Installation Arial View](project_images/ArialView.jpg?raw=true "Installation Arial View")
 
 We would provide a new painting each day for the duration of the exhibit. We also offer several additional options:
