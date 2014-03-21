@@ -15,6 +15,8 @@ Anyone with an internet connection can collaborate in the painting by visiting C
 
 In this manner a crowd-sourced painting emerges from the collaboration between the artists, participants on the internet, and the robots custom written artificial creativity.
 
+How is this different from Draw With Friends and other painting robots? It's different because your taking multiple interleaving inputs to a single source with real world physical constraints over a distributed system and providing near real time feedback to the participants. If this was a purely digital application, it would be comparatively trivial. If it was just a painting robot, it's been done before. This is solving a hard technical problem that actually has wide appeal beyond the tech crowd.
+
 ## Proposal
 
 We propose to install four Google Tablets on individual pedestals backed by a large flat screen television. We would install a custom Android application on the tablets that would display our painting interface. The television would show a live feed of the robot and the current painting. Gallery participants would be able to use the tablets to command the robot to paint. When there are no gallery participants, the robot AI would paint.
@@ -26,7 +28,7 @@ We would provide a new painting each day for the duration of the exhibit. We als
 
 1. This is a truly distributed application, we could do installations at other locations at the same time. For instance, if the Barbican had sister galleries in Tokyo and Washington DC, we could do installations there as well and they would all be able to particpate.
 2. We can allow internet participants or limit it to only allow gallery participants.
-3. We can provide the Barbican with it's own robot setup (robot, server, cameras, etc.). We would hire a local artist to set up the paintings on daily basis for the duration of the exhibit.
+3. We can provide the Barbican with it's own robot setup (robot, server, cameras, etc.). We would hire a local artist (or train a Barbican employee) to set up the paintings on daily basis for the duration of the exhibit.
 4. Depending on the location of the installation in the gallery we could provide a second rear facing flat screen television. 
 5. We could set up a mesh to hang completed work during the exhibition. Depending on the robot location, we would overnight the paintings on a daily basis.
 
@@ -69,10 +71,10 @@ private List<Command> convertStrokeToCommands( final BrushStroke stroke ) {
 
 ## Images & Videos
 
-![artists](project_images/pindartrillane.jpg?raw=true "artists")
-
-The Artists, Trillane Burlar (left) and Pindar Van Arman (right)
-
 http://youtu.be/GmGgXOxoEDs
 
 Recently completed Video (March 10, 2014) describing how individuals can participate in Crowd Painting.
+
+![artists](project_images/pindartrillane.jpg?raw=true "artists")
+
+The Artists, Trillane Burlar (left) and Pindar Van Arman (right)
