@@ -21,8 +21,8 @@ This brings us to the fifth robotic head (5), enhanced with the assistance of Ga
 
 ![Current Robotic Head](../project_images/robothead2.jpg?raw=true "Current Robotic Head")
 
-The current robotic head differs from the previous heads in many ways.  The primary difference is that it is desinged to work at an upright angle.  The previous heads would glide above a flat lieing canvas and as such received minimum paint splatter. Since this new upright head is to the side of canvas instead of over it, it gets splattered with a lot more paint.  To deal with this, it is designed to get dirty.  
+The current robotic head differs from the previous heads in many ways.  The primary difference is that it is designed to work at an upright angle.  The previous heads would glide above a flat horizontal canvas and as such received minimum paint splatter. Since this new upright head is to the side of canvas instead of over it, it gets splattered with a lot more paint.  To deal with this, it is designed to get dirty.  
 
 ![Robot Cameras](../project_images/robothead3.jpg?raw=true "Robot Cameras")
 
-Due to the amount of paint splatter another modification was to remove the feedback camera and place it on a tripod approximately 48 inches away.  Multiple cameras can be see in the image above that captures the painting from multiple angles.
+Due to the amount of paint splatter another modification was to remove the feedback camera and place it on a tripod approximately 48 inches away.  Multiple cameras can be see in the image above that captures the painting from multiple angles.  The primary feedback camera is run on a Raspberry Pi and was installed for the artists with the help and expertise of Matt Beiriger.

@@ -18,6 +18,6 @@ After one of the artists began the painting...
 
 ![Test Painting 6](../project_images/baby6.jpg?raw=true "Test Painting 6")
 
-The final painting which took approximately 24 hours to complete was a combination of the artists brush strokes as enterred through a web interface and the robots built in AI.  A timelapse of the painting being painted can be seen below.
+The final painting completed February 18, 2014 took approximately 24 hours to complete was a combination of the artists brush strokes as enterred through a web interface and the robots built in AI.  A timelapse of the painting being painted can be seen below.
 
 http://youtu.be/yclTaqqukgA
