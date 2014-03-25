@@ -9,11 +9,11 @@ Crowd Painter
 
 Crowd Painter is an interactive installation that experiments with artificial creativity and crowd-sourced art.
 
-We have built a painting robot in the Washington D.C. area that is capable of taking commands from both AI and internet participants through an intuitive web enabled interface. The robot uses these real time commands to apply paint with an artists brush to a stretched canvas.
+We have built a painting robot in the Washington D.C. area that is capable of taking commands from both AI and participants on the web through an intuitive touchscreen interface. The robot uses these real time commands to apply paint with an artists brush to a stretched canvas.
 
 Anyone with an browser or touchscreen can collaborate in the painting by applying their own strokes. When no participants are applying strokes, the robots AI examines the canvas and continues from there.  
 
-In this manner a crowd-sourced painting emerges from the collaboration between the artists, crowd sourcing, and the robots artificial creativity. All participants are considered artistic contributors and are given complimentary digital copyof the painting. Furthermore, the installation will have printers where contributors can get a time-stamped numbered print of the work in progress.
+In this manner a crowd-sourced painting emerges from the collaboration between the artists, crowd sourcing, and the robots artificial creativity. All participants are considered artistic contributors and are given a digital copy of the painting. Furthermore, the installation will have printers where contributors can get time-stamped numbered prints of the work in progress.
 
 
 ## Link to Prototype
