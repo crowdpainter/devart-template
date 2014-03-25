@@ -1,4 +1,4 @@
-One of the unexpected things to emerge in testing was vandalism.  We have openned up the painting robot to anyone who wants to particpate with no login required.  And similar to how many other crowd-sourced projects get vandalized, a couple of our paintings have already been targeted.  Examples can be seen below.  In one case the vandalism is an interesting part of the piece and in the other, the malignant brush strokes were repaired by other participants.
+One of the unexpected things to emerge in testing was vandalism.  In testing, we have openned up the painting robot to anyone who wants to particpate with no login required.  And similar to how many other crowd-sourced projects get vandalized, a couple of our paintings have already been targeted.  Examples can be seen below.  In one case the vandalism is an interesting part of the piece and in the other, the malignant brush strokes were repaired by other participants.
 
 ![Vandalism 1](project_images/spongbobvandalism.jpg?raw=true "Vandalism 1")
 
