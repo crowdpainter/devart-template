@@ -4,7 +4,7 @@ In the gallery space provided, we propose to install
 
 1. 3-4 Touch Screen Kiosks (w/ Google Tablet and Printer)
 2. Large Flat Screen Television 
-3. Wireless connection
+3. Wireless Connection
 
 ![Installation Front View](project_images/FrontView.jpg?raw=true "Installation Front View")
 
