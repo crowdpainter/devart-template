@@ -13,7 +13,7 @@ We have built a painting robot in the Washington D.C. area that is capable of ta
 
 Anyone with an browser or touchscreen can collaborate in the painting by applying their own strokes. When no participants are applying strokes, the robots AI examines the canvas and continues from there.  
 
-In this manner a crowd-sourced painting emerges from the collaboration between the artists, crowd sourcing, and the robots artificial creativity. All participants are considered artistic contributors and are given complimentary digital prints of the work. Furthermore, the installation will have printers where contributors can get a time-stamped numbered print of the work in progress.
+In this manner a crowd-sourced painting emerges from the collaboration between the artists, crowd sourcing, and the robots artificial creativity. All participants are considered artistic contributors and are given complimentary digital prints of the painting. Furthermore, the installation will have printers where contributors can get a time-stamped numbered print of the work in progress.
 
 
 ## Link to Prototype
