@@ -8,11 +8,11 @@ In the gallery space provided, we propose to install
 
 ![Installation Front View](project_images/FrontView.jpg?raw=true "Installation Front View")
 
-Each touchscreen kiosk would have a custom Android application that would display a painting interface as well as a printer. User could use the kiosks to take control of the painting robot.  Multiple users would be able to participate at once. At any time, a users would be able to request a printout of the current state of the canvas and the printer would produce it.
+Each touchscreen kiosk would have a custom Android application and a printer. User could use the touchscreen to take control of the robot and paint.  Multiple users would be able to participate at once. At any time, a users would be able to request a printout of the current state of the canvas and the printer would produce it for them to take home.
 
-The television would show a live feed of the robot and the current painting. In real time, it would show the robot reacting to the participants instructions.   When there are no gallery participants, the robot AI will take over and paint.  The robot will always be moving.
+The television would show a live feed of the robot and the current painting. It would show the robot reacting to the participants instructions.   When there are no gallery participants, the robot AI will take over and paint.  The robot will usually be moving on the screen.
 
-The wireless connection is for participants with their own wireless devices. Anyone with a touchscreen will be able to connect and participate in real time.  Also any of these particpants can request a digital print of the canvas at any time by providing their email.
+The wireless connection is for participants with their own wireless devices. Anyone with a touchscreen will be able to connect to the robot and participate in the painting in real time.  Also any of these wireless particpants can request a digital print of the canvas at any time.
 
 ![Installation Arial View](project_images/ArialView.jpg?raw=true "Installation Arial View")
 
