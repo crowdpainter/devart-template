@@ -8,9 +8,9 @@ In the gallery space provided, we propose to install
 
 ![Installation Front View](project_images/FrontView.jpg?raw=true "Installation Front View")
 
-Each touchscreen kiosk would have a custom Android application and a printer. User could use the touchscreen to take control of the robot and paint.  Multiple users would be able to participate at once. At any time, a users would be able to request a printout of the current state of the canvas and the printer would produce it for them to take home.
+Each touchscreen kiosk would have a custom Android application and a printer. User could use the touchscreen to take control of a painting robot and paint.  Multiple users would be able to participate at once. At any time, a users would be able to request a printout of the current state of the canvas and the printer would produce it for them to take home.
 
-The television would show a live feed of the robot and the current painting. It would show the robot reacting to the participants instructions.   When there are no gallery participants, the robot AI will take over and paint.  The robot will usually be moving on the screen.
+The television would show a live feed of the painting robot and the current painting. It would show the robot reacting to the participants instructions.   When there are no gallery participants, the robot AI will take over and paint.  The robot will usually be moving on the screen. Depending on exhibition space, the actual robot could be installed instead of the screen.
 
 The wireless connection is for participants with their own wireless devices. Anyone with a touchscreen will be able to connect to the robot and participate in the painting in real time.  Also any of these wireless particpants can request a digital print of the canvas at any time.
 
