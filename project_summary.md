@@ -57,6 +57,13 @@ private List<Command> convertStrokeToCommands( final BrushStroke stroke ) {
 
 ## Images & Videos
 
+![installation](project_images/FrontView.jpg?raw=true "installation")
+
+Conceptual View of Installation 
+  1. Large Monitor with Live Feed
+  2. 3-4 Touchscreen Kiosks and Printers
+  3. Open Wireless Connection for Visitors to use their own Touchscreen Devices
+
 http://youtu.be/GmGgXOxoEDs
 
 Recently completed Video (March 10, 2014) describing how individuals can participate in Crowd Painting.
@@ -65,6 +72,3 @@ Recently completed Video (March 10, 2014) describing how individuals can partici
 
 The Artists, Trillane Burlar (left) and Pindar Van Arman (right)
 
-![installation](project_images/FrontView.jpg?raw=true "installation")
-
-Conceptual View of Installation - Large Monitor with Live Feed : 3-4 Touchscreen Kiosks : Open Connection for Visitors to use their own Touchscreen Devices
