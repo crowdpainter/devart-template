@@ -14,5 +14,5 @@ Another thing we noticed was that users wanted to paint on different views.  Som
 
 Views from Left to Right: Trace, Mix, Painting
 
-
+Anyone with a browser or web connection can use the client we created to take over the robot and paint.  You simply select a color from the palette and make your stroke.  The buttons down the left side help navigate and select views.  
 
