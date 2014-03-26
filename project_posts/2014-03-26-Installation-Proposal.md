@@ -2,9 +2,10 @@
 
 In the gallery space provided, we propose to install 
 
-1. 3-4 Touch Screen Kiosks (w/ Google Tablet and Printer)
-2. Large Flat Screen Television 
-3. Wireless Connection
+1: Large Monitor with Live Feed of a Painting Robot
+2: 3 Touchscreen Kiosks for Visitors to Take Control of the Painting Robot
+3: Printers for Visitors to Make Prints of the Work in Progress 
+4: Open Wireless Connection for Visitors to Control Robot from their own Touchscreen Devices
 
 ![Installation Front View](project_images/FrontView.jpg?raw=true "Installation Front View")
 
