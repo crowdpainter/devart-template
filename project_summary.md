@@ -58,10 +58,6 @@ private List<Command> convertStrokeToCommands( final BrushStroke stroke ) {
 ![installation](project_images/FrontView.jpg?raw=true "installation")
 
 Conceptual View of Installation 
-  1. Large Monitor with Live Feed of the Painting Robot
-  2. 3-4 Touchscreen Kiosks for Visitors to Take Control of Robot
-  3. Printers for Visitors to Make Prints of the Work
-  4. Open Wireless Connection for Visitors to Control Robot from their own Touchscreen Devices
 
 http://youtu.be/GmGgXOxoEDs
 
