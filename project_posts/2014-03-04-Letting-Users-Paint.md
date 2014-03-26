@@ -10,6 +10,9 @@ The initial reaction was positive, so positive that no one wanted to wait to pai
 
 Another thing we noticed was that users wanted to paint on different views.  Some users wanted to trace the source image, while others wanted to work free styledirectly on the canvas.  To address this, we added a button to switch between multiple views.  Three of the views can be seen below.
 
+![Three Views](project_images/threeviews.jpg?raw=true "Three Views")
+
+Views from Left to Right: Trace, Mix, Painting
 
 
 
