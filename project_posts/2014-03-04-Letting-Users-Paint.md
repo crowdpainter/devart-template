@@ -16,3 +16,4 @@ Views from Left to Right: Trace, Mix, Painting
 
 Anyone with a browser or web connection can use the client we created to take over the robot and paint.  You simply select a color from the palette and make your stroke.  The buttons down the left side help navigate and select views.  
 
+Though still in beta testing, you are able to see and use its interface at [Crowd Painter Beta Prototype](http://www.crowdpainter.com "Crowd Beta Painter Prototype").
