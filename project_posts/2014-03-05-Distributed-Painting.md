@@ -1,6 +1,10 @@
 In order to allow the type of multi-user painting that we wanted, we would have to overcome several technical hurdles.
 
-The first hurdle was paint mixing. How do we prevent users from dipping the brush in black, then in white, then in black, and so on, creating a very non-black, non-white color on the brush. We solved this using both mechanical and code related means. Pindar created a mechanical brush cleaner that allowed us to clean the brush. You don't want to clean the brush after every stroke because it's slow and inefficient. Therefore I created a configurable group queuing mechanism in the code that groups incoming strokes from multiple users by color. This has the side effect of slightly altering the stroke order. However, the user is generally unaware of this because they don't know when other user strokes are received in comparison to their strokes. 
+The first hurdle was paint mixing. How do we prevent users from dipping the brush in black, then in white, then in black, and so on, creating a very non-black, non-white color on the brush. We solved this using both mechanical and code related means. Pindar created a mechanical brush cleaner that allowed us to clean the brush. His brush cleaner consisted of a water well and second canvas to the side of the painting.  When colors were changed the brush would be dipped in the water and run across this canvas until the paint was exhausted.
+
+![Brush Cleaning Canvas](project_images/brushcleaning.jpg?raw=true "Brush Cleaning Canvas")
+
+You don't want to clean the brush after every stroke because it's slow and inefficient. Therefore I created a configurable group queuing mechanism in the code that groups incoming strokes from multiple users by color. This has the side effect of slightly altering the stroke order. However, the user is generally unaware of this because they don't know when other user strokes are received in comparison to their strokes. 
 
 Since there is only one robot and it is comparably slow to paint strokes than it is for users to draw them, we wanted to make sure users understood what the potential outcome would be. That meant having an up-to-date stroke representation on the client.
 
