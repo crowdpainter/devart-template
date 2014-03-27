@@ -4,7 +4,7 @@
             "youtube"
         ],
         "platforms": [
-            "android", "windows", "ios", "linux", "raspberry pi"
+            "android", "windows", "linux", "raspberry pi"
         ],
         "toolkits": [
             "Google Web Toolkit"

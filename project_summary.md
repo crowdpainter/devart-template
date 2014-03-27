@@ -66,7 +66,7 @@ In the gallery space provided, we propose to install
 3: Printers for Visitors to Make Prints of the Work in Progress 
 4: Open Wireless Connection for Visitors to Control Robot from their own Touchscreen Devices
 
-A description of how robot interface currently works is in video below.
+A description of how robot interface currently works is in the video below.  This application will be customized slightly for the installation.
 
 http://youtu.be/GmGgXOxoEDs
 
