@@ -1,4 +1,4 @@
-# Project Title
+# Crowd Painter
 Crowd Painter
 
 ## Authors
