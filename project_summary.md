@@ -57,13 +57,16 @@ private List<Command> convertStrokeToCommands( final BrushStroke stroke ) {
 
 ![installation](project_images/FrontView.jpg?raw=true "installation")
 
-Conceptual View of Installation 
+Conceptual View of Installation
 
-1: Large Monitor with Live Feed of a Painting Robot
+In the gallery space provided, we propose to install
+
+1: Large Monitor with Live Feed of our Painting Robot
 2: 3 Touchscreen Kiosks for Visitors to Take Control of the Painting Robot
 3: Printers for Visitors to Make Prints of the Work in Progress 
 4: Open Wireless Connection for Visitors to Control Robot from their own Touchscreen Devices
 
+A description of how robot interface currently works is in video below.
 
 http://youtu.be/GmGgXOxoEDs
 
