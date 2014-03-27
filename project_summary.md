@@ -9,9 +9,9 @@ Crowd Painter
 
 Crowd Painter is an interactive installation that experiments with artificial creativity and crowd-sourced art.
 
-We have built a painting robot in the Washington D.C. area that is capable of taking commands from both AI and participants on the web through an intuitive touchscreen interface. The robot uses these real time commands to apply paint with an artists brush to a stretched canvas.
+We have built a painting robot in the Washington D.C. area that takes commands from both AI and participants on the web through an intuitive touchscreen interface. The robot uses these commands to apply acrylic paint with a brush to a stretched canvas in real time.
 
-Anyone with an browser or touchscreen can collaborate in the painting by applying their own strokes. When no participants are applying strokes, the robots AI examines the canvas and continues from there.  
+Anyone with a browser or touchscreen can collaborate in the painting by applying their own strokes. When no participants are applying strokes, the robot's AI examines the canvas and continues from there.  
 
 In this manner a crowd-sourced painting emerges from the collaboration between the artists, crowd sourcing, and the robots artificial creativity. All participants are considered artistic contributors and are given a digital copy of the painting. Furthermore, the installation will have printers where contributors can get time-stamped numbered prints of the work in progress.
 
@@ -57,7 +57,16 @@ private List<Command> convertStrokeToCommands( final BrushStroke stroke ) {
 
 ![installation](project_images/FrontView.jpg?raw=true "installation")
 
-Conceptual View of Installation 
+Conceptual View of Installation
+
+In the gallery space provided, we propose to install
+
+1: Large Monitor with Live Feed of our Painting Robot
+2: 3 Touchscreen Kiosks for Visitors to Take Control of the Painting Robot
+3: Printers for Visitors to Make Prints of the Work in Progress 
+4: Open Wireless Connection for Visitors to Control Robot from their own Touchscreen Devices
+
+A description of how robot interface currently works is in video below.
 
 http://youtu.be/GmGgXOxoEDs
 
