@@ -1,16 +1,13 @@
 {
     "technologies": {
         "languages": [
-            "java"
+            "java", "javascript", "html", "css"
         ],
         "toolkits": [
             "Google Web Toolkit"
         ],
         "platforms": [
             "android", "windows", "linux", "raspberry pi"
-        ],
-        "apis": [
-            "youtube"
         ]
     },
     "themes": [
