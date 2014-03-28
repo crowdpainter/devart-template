@@ -1,10 +1,10 @@
 {
     "technologies": {
-        "toolkits": [
-            "Google Web Toolkit"
-        ],
         "languages": [
             "java"
+        ],
+        "toolkits": [
+            "Google Web Toolkit"
         ],
         "platforms": [
             "android", "windows", "linux", "raspberry pi"
