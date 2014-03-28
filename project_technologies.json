@@ -3,8 +3,8 @@
         "toolkits": [
             "Google Web Toolkit"
         ],
-        "language": [
-            "java", "javascript", "html", "css"
+        "languages": [
+            "java"
         ],
         "platforms": [
             "android", "windows", "linux", "raspberry pi"
