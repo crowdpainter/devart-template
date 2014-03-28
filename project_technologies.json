@@ -7,7 +7,7 @@
             "java", "javascript", "html", "css"
         ],
         "platforms": [
-            "android", "windows", "linux", "raspberry pi"
+            "android", "windows", "linux", "ios", "raspberry pi"
         ],
         "apis": [
             "youtube"
