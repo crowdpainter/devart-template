@@ -3,11 +3,11 @@
         "toolkits": [
             "Google Web Toolkit"
         ],
-        "languages": [
+        "language": [
             "java", "javascript", "html", "css"
         ],
         "platforms": [
-            "android", "windows", "linux", "ios", "raspberry pi"
+            "android", "windows", "linux", "raspberry pi"
         ],
         "apis": [
             "youtube"
