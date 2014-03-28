@@ -1,5 +1,6 @@
-# Project Title
-Crowd Painter
+# Crowd Painter
+
+Crowd Sourced Painting with a Robot
 
 ## Authors
 - Pindar Van Arman, https://github.com/crowdpainter

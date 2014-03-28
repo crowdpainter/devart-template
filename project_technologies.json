@@ -3,15 +3,11 @@
         "apis": [
             "youtube"
         ],
+        "toolkits": [
+            "Google Web Toolkit", "java", "javascript", "html", "css"
+        ],
         "platforms": [
             "android", "windows", "linux", "raspberry pi"
-        ],
-        "toolkits": [
-            "Google Web Toolkit"
-        ]
-        ,
-        "languages": [
-            "java", "javascript", "html", "css"
         ]
     },
     "themes": [
